@@ -1,0 +1,34 @@
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\XNA Projects\SpriteSheetSample\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\XNA Projects\7ANTSMMO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\XNA Projects\7ANTSMMO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\XNA Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\XNA Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\XNA Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime (Windows).csprojResolveAssemblyReference.cache
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\7ANTSMMO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\MonoGame.Framework.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.Direct3D11.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.XAudio2.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.DXGI.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.Direct3D11.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.XAudio2.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\bin\x86\Debug\SharpDX.DXGI.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime (Windows).csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<accounts>
+  <account id = "000000000" username = "dex">
+    <password>bla</password>
+    <acceslevel>ADMIN</acceslevel>
+  </account>
+  <account id = "000000000" username = "Test">
+    <password>test</password>
+    <acceslevel>PLAYER</acceslevel>
+  </account>
+</accounts>

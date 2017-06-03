@@ -1,0 +1,68 @@
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SDL.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\black.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\brownish.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\character.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\ChatFont.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\dirttexture.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\dirttexture2.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\empty.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\FEMALE.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\grasstexture.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\grasstexture2.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\equipment_slot.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\male-silhouette.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\paperdoll_bg.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\stratum_bg.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\stratum_borderbottom.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\stratum_borderleft.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\stratum_borderright.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\GUI\stratum_bordertop.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\HighLight_backup.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\hp_bar.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\inventory.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\InventoryFont.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\InventoryItemFont.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\inventoryitem_highlight.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\inventory_highlight.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\ShovelItem.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\SpriteSheet.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\tree.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\watertexture.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\white.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\7ANTSMMO_MONO.exe
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\7ANTSMMO_MONO.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Data.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Lidgren.Network.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\MonoGame.Framework.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\OpenTK.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SpriteSheetRuntime.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Tao.Sdl.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Data.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SpriteSheetRuntime.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.csprojResolveAssemblyReference.cache
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.exe
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\Shovel.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\Blankpile.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\Dirtpile.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\Tree2.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\SpriteSheetHumanMale.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\Content\compass.xnb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.Direct3D11.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.XAudio2.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.DXGI.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.Direct3D11.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.XAudio2.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\bin\WindowsGL\Debug\SharpDX.DXGI.xml
+C:\Users\Dexploratio\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.exe
+C:\Users\Dexploratio\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.pdb
+C:\Users\kennyd.sevenants\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.exe
+C:\Users\kennyd.sevenants\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.pdb
+E:\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.exe
+E:\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.pdb
+S:\!home-dex\Projects\MonoGame\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.exe
+S:\!home-dex\Projects\MonoGame\7ANTSMMO_MONO\7ANTSMMO_MONO\obj\x86\Debug\7ANTSMMO_MONO.pdb

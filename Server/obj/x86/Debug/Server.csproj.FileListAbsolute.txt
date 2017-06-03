@@ -1,0 +1,41 @@
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Server.exe
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Server.pdb
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Data.dll
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Data.pdb
+E:\Projects\XNA Projects\7ANTSMMO\Server\obj\x86\Debug\Server.exe
+E:\Projects\XNA Projects\7ANTSMMO\Server\obj\x86\Debug\Server.pdb
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Lidgren.Network.dll
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Lidgren.Network.pdb
+E:\Projects\XNA Projects\7ANTSMMO\Server\bin\Debug\Lidgren.Network.xml
+E:\Projects\XNA Projects\7ANTSMMO\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Projects\7ANTSMMO\Server\obj\x86\Debug\Server.exe
+E:\Projects\7ANTSMMO\Server\obj\x86\Debug\Server.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Server.exe
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Server.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Data.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Lidgren.Network.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.Direct3D11.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.XAudio2.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.DXGI.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Data.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.Direct3D11.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.XAudio2.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SharpDX.DXGI.xml
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.exe
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SpriteSheetRuntime.dll
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\SpriteSheetRuntime.pdb
+E:\Projects\MonoGame Projects\7ANTSMMO_MONO\Server\bin\Debug\Accounts.xml
+C:\Users\Dexploratio\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.exe
+C:\Users\Dexploratio\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.pdb
+C:\Users\kennyd.sevenants\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.exe
+C:\Users\kennyd.sevenants\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.pdb
+E:\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.exe
+E:\Google Drive\!Projects\MonoGame Projects\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.pdb
+S:\!home-dex\Projects\MonoGame\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.exe
+S:\!home-dex\Projects\MonoGame\7ANTSMMO_MONO\Server\obj\x86\Debug\Server.pdb
